@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1540734079 source:c:\users\hp\desktop\matrix\main.cpp
+	<iostream>
+	"mat.h"
+
+1540734041 source:c:\users\hp\desktop\matrix\mat.cpp
+	"mat.h"
+	<iostream>
+
+1540733643 c:\users\hp\desktop\matrix\mat.h
+	<iostream>
+
